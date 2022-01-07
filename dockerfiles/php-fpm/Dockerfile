@@ -14,4 +14,3 @@ RUN apt-get -y install \
 
 CMD ["php-fpm"]
 
-EXPOSE 9000
