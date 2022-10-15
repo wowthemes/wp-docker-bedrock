@@ -85,4 +85,4 @@ Alternatively, there is a script in the `/bin` directory that allows you to SSH 
 ## Credits
 
 This project is our own flavor of an environment created by the 10up team based on work by John Bloch. Some additional
-code was used from easypath/bedrock-docker.
+code was used from easypath/bedrock-docker. [Wow Themes](https://www.wow-themes.com)
